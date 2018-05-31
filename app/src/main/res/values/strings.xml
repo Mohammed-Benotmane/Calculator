@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="un">1</string>
+    <string name="deux">2</string>
+    <string name="trois">3</string>
+    <string name="quatre">4</string>
+    <string name="six">6</string>
+    <string name="cinq">5</string>
+    <string name="sept">7</string>
+    <string name="huit">8</string>
+    <string name="neuf">9</string>
+    <string name="zero">0</string>
+    <string name="plus">+</string>
+    <string name="egal">=</string>
+    <string name="moins">-</string>
+    <string name="prod">x</string>
+    <string name="div">/</string>
+    <string name="virgule">.</string>
+    <string name="clear">CE</string>
+    <string name="ouss">x^</string>
+</resources>
